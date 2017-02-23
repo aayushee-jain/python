@@ -4,7 +4,7 @@
                     ####        Compiled on Python 2.7             #### 
                     ###################################################
 
-## This is a 2 players game with two piles of rocks. At each turn a player can choose a pile and remove 1 or 2 rocks from that pile.
+## This is a 2 player game with two piles of rocks. At each turn a player can choose a pile and remove 1 or 2 rocks from that pile.
 ## the player to remove the last rock, such that there are 0 rocks on both piles, wins. 
 ## a function that constructs the winner matrix for the number of rocks on the
 ## piles i and j respectively.
